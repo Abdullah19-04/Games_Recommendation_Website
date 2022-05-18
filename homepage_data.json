@@ -1,0 +1,32 @@
+[
+    {
+        "Title": "NEED FOR SPEED PAYBACK",
+        "Details": "Need for Speed Payback is a racing game set in an open world environment of Fortune Valley; a fictional version of Las Vegas, Nevada. It is focused on action driving and has three playable characters (each with different sets of skills) working together to pull off action movie-like sequences. Need for Speed: Payback is the twenty-third game in the Need for Speed series developed by Ghost Games.",
+        "Genre": " Racing",
+        "Developers": "Ghost",
+        "Features": "Offline Versus Multiplayer | Online Versus Multiplayer",
+        "Release_date": "September 27, 2021",
+        "Platform": "PlayStation 4 | Xbox One",
+        "image": "Need for Speed Payback.jpg"
+    },
+    {
+        "Title": "WWE 2K22",
+        "Details": " WWE 2K22 is a professional wrestling video game developed by Visual Concepts and published by 2K Sports. It is the twenty-second overall installment of the video game series based on WWE, the ninth game under the WWE 2K banner, and the successor to 2019's WWE 2K20. It nclude a mix of WWE Legends, NXT stars, and more recent Raw and SmackDown additions, including Ronda Rousey, Vader, MSK, Doudrop.",
+        "Genre": "Wrestling",
+        "Developers": "Visual Concepts",
+        "Features": "Offline Versus Multiplayer | Online Versus Multiplayer",
+        "Release_date": "March 11, 2022",
+        "Platform": "PlayStation 4 | PlayStation 5 | Xbox Series X/S ",
+        "image": "WWE2k22.jpg"
+    },
+    {
+        "Title": "Injustice Gods Among Us",
+        "Details": "Injustice: Gods Among Us is a fighting game in which players control characters with different fighting styles and special attacks, engaging in one-on-one combat to deplete their opponent's life gauge.Featuring six new playable characters, over 30 new skins, and 60 new S.T.A.R. Labs missions, this edition packs a punch. In addition to DC Comics icons such as Batman, The Joker, Green Lantern, The Flash, Superman and Wonder Woman, the latest title from the award-winning studio presents a deep original story.",
+        "Genre": "Action | Fighting",
+        "Developers": "NetherRealm Studios",
+        "Features": "Offline Versus Multiplayer | Online Versus Multiplayer",
+        "Release_date": "November 12, 2013",
+        "Platform": "PlayStation 4 | Xbox 360",
+        "image": "Injustice Gods Among Us -- Ultimate Edition.jpg"
+    }
+]
